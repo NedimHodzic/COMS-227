@@ -1,2 +1,2 @@
 # COMS-227
-This is a repository containing homework assignments from COM S 227 at Iowa State University
+This is a repository containing homework assignments from COM S 227 at Iowa State University from my freshman year
