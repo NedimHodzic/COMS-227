@@ -1,2 +1,2 @@
 # COMS-227
-This is a repository containing homework assignments from COM S 227 at Iowa State University from my freshman year
+This repository contains homework assignments from COM S 227: Object-oriented Programming at Iowa State University, taken my Freshman year.
